@@ -10,16 +10,15 @@ class script(object):
     © Signature98</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
-    Here is the #HELP for my Commands.</b>"""
+    Here is the #HELP for my Commands © Signature98</b>"""
 
-    ABOUT_TXT = """<b> Free to Use ...</b> """
+    ABOUT_TXT = """<b> Free to Use ... © Signature98</b> """
 
     SOURCE_TXT = """<b> Confidential © Signature98 </b>"""
 
 
 
     MANUELFILTER_TXT = """
-    ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬  
 <i>Help</i>: <b>Filters</b>
 
 <i>Filter is the feature were users can set automated replies for a particular keyword and bot will respond whenever a keyword is found the message</i>
@@ -34,24 +33,33 @@ class script(object):
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code> 
-▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ ▬ """
+
+<b> © Signature98 </b>"""
 
     # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    BUTTON_TXT = """ʜᴇʟᴘ: <b>ʙᴜᴛᴛᴏɴꜱ</b>
-- ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴏᴛʜ ᴜʀʟ ᴀɴᴅ ᴀʟᴇʀᴛ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴꜱ.
-<b>ɴᴏᴛᴇ:</b>
-1. ᴛᴇʟᴇɢʀᴀᴍ ᴡɪʟʟ ɴᴏᴛ ᴀʟʟᴏᴡꜱ ʏᴏᴜ ᴛᴏ ꜱᴇɴᴅ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴄᴏɴᴛᴇɴᴛ, ꜱᴏ ᴄᴏɴᴛᴇɴᴛ ɪꜱ ᴍᴀɴᴅᴀᴛᴏʀʏ.
-2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
-3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
-<b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/vjupdates2/3)</code>
-<b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
+    BUTTON_TXT = """  
+<i> Help </i>: <b>Buttons</b>
 
-    AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
+<i> Bot Supports both url and alert inline buttons.</i>
+
+<i><b>NOTE:</b>
+1. Telegram will not allows you to send buttons without any content, so content is mandatory.
+2. Bot supports buttons with any telegram media type.
+3. Buttons should be properly parsed as markdown format</i>
+
+<b>URL buttons:</b>
+<code>[Button Text](buttonurl:https://t.me/username)</code>
+
+<b>Alert buttons:</b>
+<code>[Button Text](buttonalert:This is an alert message)</code>
+
+<b> © Signature98 </b> """
+
+    AUTOFILTER_TXT = """    
+ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
 1. ᴍᴀᴋᴇ ᴍᴇ ᴛʜᴇ ᴀᴅᴍɪɴ ᴏꜰ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪꜰ ɪᴛ'ꜱ ᴘʀɪᴠᴀᴛᴇ.
 2. ᴍᴀᴋᴇ ꜱᴜʀᴇ ᴛʜᴀᴛ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴅᴏᴇꜱ ɴᴏᴛ ᴄᴏɴᴛᴀɪɴꜱ ᴄᴀᴍʀɪᴘꜱ, ᴘᴏʀɴ ᴀɴᴅ ꜰᴀᴋᴇ ꜰɪʟᴇꜱ.
@@ -60,9 +68,12 @@ class script(object):
 <b>Nᴏᴛᴇ: AᴜᴛᴏFɪʟᴛᴇʀ</b>
 1. Aᴅᴅ ᴛʜᴇ ʙᴏᴛ ᴀs ᴀᴅᴍɪɴ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 2. Usᴇ /connect ᴀɴᴅ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴇ ʙᴏᴛ.
-3. Usᴇ /settings ᴏɴ ʙᴏᴛ's PM ᴀɴᴅ ᴛᴜʀɴ ᴏɴ AᴜᴛᴏFɪʟᴛᴇʀ ᴏɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ."""
+3. Usᴇ /settings ᴏɴ ʙᴏᴛ's PM ᴀɴᴅ ᴛᴜʀɴ ᴏɴ AᴜᴛᴏFɪʟᴛᴇʀ ᴏɴ ᴛʜᴇ sᴇᴛᴛɪɴɢs ᴍᴇɴᴜ.
 
-    CONNECTION_TXT = """ʜᴇʟᴘ: <b>ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>
+<b> © Signature98 </b>"""
+
+    CONNECTION_TXT = """
+ʜᴇʟᴘ: <b>ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>
 - ᴜꜱᴇᴅ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ᴘᴍ ꜰᴏʀ ᴍᴀɴᴀɢɪɴɢ ꜰɪʟᴛᴇʀꜱ 
 - ɪᴛ ʜᴇʟᴘꜱ ᴛᴏ ᴀᴠᴏɪᴅ ꜱᴘᴀᴍᴍɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ.
 <b>ɴᴏᴛᴇ:</b>
@@ -71,33 +82,28 @@ class script(object):
 Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /connect  - <code>ᴄᴏɴɴᴇᴄᴛ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ</code>
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
-• /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
+• /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>
 
-    # Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+<b> © Signature98 </b>"""
 
-    EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
+    EXTRAMOD_TXT = """
+ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
-my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
-  
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
-  
- ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
- code> 
-  
- ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
-  
- ./song - Download any song [<code>example /song vaa vaathi song</code>] 
-  
- ./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
-  
- ./tts - <code>This command usage text to voice converter</code> 
-  
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
+my features Stay here new features coming soon... 
 
-./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
+ ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
+ code>  
+ ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
+ 
+ ./song - Download any song [<code>example /song song name</code>]  
+ 
+ ./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
+ 
+ ./tts - <code>This command usage text to voice converter</code> 
+
+ ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]
+ 
+ <b> © Signature98 </b>"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
@@ -121,13 +127,17 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ</code>
 • /request - <code>Tᴏ sᴇɴᴅ ᴀ Mᴏᴠɪᴇ/Sᴇʀɪᴇs ʀᴇᴏ̨ᴜᴇsᴛ ᴛᴏ ʙᴏᴛ ᴀᴅᴍɪɴs. Oɴʟʏ ᴡᴏʀᴋs ᴏɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
-• /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
+• /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
+
+<b> © Signature98 </b>"""
 
     STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
-★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
+★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>
+
+<b> © Signature98 </b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -464,11 +474,11 @@ Hey <a href='tg://settings'>My Friend</a>
 
  How and what to do
 
- Step 1: Administer this THALAPATHY-FILTER-BOT bot to your group
+ Step 1: Administer this bot to your group
 
  Step 2: Add your website and API
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink omegalinks.in 4b392f8eb6ad711123
 
  Add a video
 
@@ -667,15 +677,7 @@ Also your tutorial will be Added Your Group..."""
 
 
     DEVELOPER_TXT = """
-special Thanks To ❤️ Developers -
-
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
-
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
-
--Dev 3 <a href='https://t.me/vj_botz>Jᴏᴇʟ </> TɢX</a>
-
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+special Thanks To ❤️ <b> © Signature98 </b>
 """
 
 
