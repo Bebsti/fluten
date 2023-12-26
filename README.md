@@ -146,7 +146,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/VJBots/VJ-Filter-Bot
+git clone https://github.com/Bebsti/fluten.git
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
